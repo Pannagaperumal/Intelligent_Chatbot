@@ -1,1 +1,1 @@
-#Inteligent ChatBot
+# Intelligent ChatBot
